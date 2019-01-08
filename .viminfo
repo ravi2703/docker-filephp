@@ -21,16 +21,56 @@
 # Registers:
 
 # File marks:
-'0  3  8  ~/dockerfile
-'1  1  0  ~/dockerfile
-'2  1  50  ~/dockerfile
+'0  7  23  ~/dockerfile2
+'1  1  7  ~/docker
+'2  3  8  ~/dockerfile
+'3  1  0  ~/dockerfile
+'4  1  50  ~/dockerfile
 
 # Jumplist (newest first):
+-'  7  23  ~/dockerfile2
+-'  1  0  ~/dockerfile2
+-'  1  7  ~/docker
+-'  3  8  ~/dockerfile
+-'  1  0  ~/dockerfile
+-'  4  2  ~/dockerfile
+-'  3  8  ~/dockerfile
+-'  1  0  ~/dockerfile
+-'  4  2  ~/dockerfile
+-'  3  8  ~/dockerfile
+-'  1  0  ~/dockerfile
+-'  4  2  ~/dockerfile
+-'  3  8  ~/dockerfile
+-'  1  0  ~/dockerfile
+-'  4  2  ~/dockerfile
+-'  1  7  ~/docker
+-'  3  8  ~/dockerfile
+-'  1  0  ~/dockerfile
+-'  4  2  ~/dockerfile
+-'  3  8  ~/dockerfile
+-'  1  0  ~/dockerfile
+-'  4  2  ~/dockerfile
+-'  3  8  ~/dockerfile
+-'  1  0  ~/dockerfile
+-'  4  2  ~/dockerfile
 -'  3  8  ~/dockerfile
 -'  1  0  ~/dockerfile
 -'  4  2  ~/dockerfile
 
 # History of marks within files (newest to oldest):
+
+> ~/dockerfile2
+	"	7	23
+	^	7	24
+	.	7	24
+	+	1	79
+	+	7	24
+
+> ~/docker
+	"	1	7
+	^	1	8
+	.	1	7
+	+	1	7
 
 > ~/dockerfile
 	"	3	8
